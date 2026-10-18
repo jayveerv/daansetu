@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+contracts-hh/cache
+contracts-hh/artifacts
+.DS_Store
